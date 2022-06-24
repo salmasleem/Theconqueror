@@ -9,5 +9,5 @@ world by taking control over every other city under a certain amount of turns. I
 
 ## Authors 
 1. [Salma Sleem](https://github.com/salmasleem)
-2. 
-3. 
+2. [Rola Sameh](https://github.com/salmasleem)
+3. [Nour Hosny]
